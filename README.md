@@ -1,2 +1,2 @@
 # LLM
-My HomeWorks in Large Language Models course in Sharif University of Technology
+My homework in the Large Language Models course at Sharif University of Technology.
